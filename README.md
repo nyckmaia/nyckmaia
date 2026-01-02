@@ -53,7 +53,7 @@ Computer and Audio Engineer with a Bachelor's degree in Classical Music Composit
 
 ### Professional Experience
 
-Currently working at **RECOD.AI** building AI-powered web services and APIs with Docker and Azure Cloud. Previously developed embedded systems in C/C++ at **EvooluServices** and high-performance computing applications at **UNICAMP** research labs. Also teaching C/C++, Python, and Computer Architecture at university level.
+Currently working at **RECOD.AI** building AI-powered web services and APIs with Docker and Azure Cloud. Previously developed embedded systems in C/C++ at **EvoluServices** and high-performance computing applications at **UNICAMP** research labs. Also teaching C/C++, Python, and Computer Architecture at university level.
 
 ###
 
