@@ -9,7 +9,7 @@
 
 ### About Me
 
-Computer and Audio Engineer with a Bachelor's degree in Classical Music Composition. Over 10 years of experience in software development with C/C++, Python, and JavaScript. Specialized in embedded systems, high-performance computing (HPC), and digital signal processing (DSP). Currently pursuing a PhD in Music Technology at UNICAMP, bridging the gap between technology and the arts.
+Computer and Audio Engineer with a Bachelor's degree in Classical Music Composition. Over 10 years of experience in software development with C/C++, Python, and JavaScript. Specialized in embedded systems, high-performance computing (HPC), and digital signal processing (DSP). PhD in Music Technology at UNICAMP, bridging the gap between technology and the arts.
 
 ###
 
