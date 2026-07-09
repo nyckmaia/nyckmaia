@@ -9,7 +9,7 @@
 
 ### About Me
 
-Computer and Audio Engineer with a Bachelor's degree in Classical Music Composition. Over 10 years of experience in software development with C/C++, Python, and JavaScript. Specialized in embedded systems, high-performance computing (HPC), and digital signal processing (DSP). PhD in Music Technology at UNICAMP, bridging the gap between technology and the arts.
+Computer and Audio Engineer with a Bachelor's degree in Classical Music Composition and a Ph.D. in Music Technology from the University of Campinas (UNICAMP). Over 10 years of experience designing and developing software with C/C++, Python, and JavaScript. Experienced in distributed systems, high-performance computing (HPC), machine learning, data engineering, embedded systems, and digital signal processing (DSP), combining academic research with production-grade software development.
 
 ###
 
@@ -53,7 +53,11 @@ Computer and Audio Engineer with a Bachelor's degree in Classical Music Composit
 
 ### Professional Experience
 
-Currently working at **RECOD.AI** building AI-powered web services and APIs with Docker and Azure Cloud. Previously developed embedded systems in C/C++ at **EvoluServices** and high-performance computing applications at **UNICAMP** research labs. Also teaching C/C++, Python, and Computer Architecture at university level.
+Currently working as a Software Engineer at Create Music Group, developing scalable software and data-driven solutions for the digital music industry using modern backend technologies, cloud infrastructure, and machine learning.
+
+Previously, I worked at RECOD.AI developing AI-powered web services and APIs with Docker and Azure Cloud. Before that, I developed embedded systems in C/C++ at EvoluServices and high-performance computing applications as a researcher at UNICAMP.
+
+In parallel with my industry experience, I have taught Computer Architecture, C/C++, and Python at the university level, mentoring undergraduate engineering students and bridging academic research with practical software engineering.
 
 ###
 
